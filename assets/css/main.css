@@ -1,6 +1,9 @@
 body{
-  background-color: rgb(178, 241, 232);
   padding: 0.5em;
+  font-family: 'Tangerine', serif;
+  /* font-size: 48px; */
+  /* text-shadow: 4px 4px 4px #aaa; */
+
 }
 
 #header{
@@ -8,7 +11,8 @@ body{
 }
 
 #main{
-  background-color: rgb(255, 254, 186);
+  background-color: rgb(222, 255, 238);
+  font-family: 'Noto Serif KR', serif;
 }
 
 #footer{
