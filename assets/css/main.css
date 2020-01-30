@@ -1,3 +1,20 @@
 body{
-  background-color: lemon;
+  padding: 0.5em;
+  font-family: 'Tangerine', serif;
+  /* font-size: 48px; */
+  /* text-shadow: 4px 4px 4px #aaa; */
+
+}
+
+#header{
+
+}
+
+#main{
+  background-color: rgb(222, 255, 238);
+  font-family: 'Noto Serif KR', serif;
+}
+
+#footer{
+
 }
